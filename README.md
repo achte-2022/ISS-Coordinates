@@ -3,7 +3,7 @@
 ### [twitter](https://twitter.com/achte_te)
 
 ## Description
-
+An application that prints the realtime coordinates of International Space Station, everytime the application is run.  The coordinates can be checked at [coordinate_checker](https://www.latlong.net/Show-Latitude-Longitude.html).  
 ## Requirements
 
 [Python](https://www.python.org/)
